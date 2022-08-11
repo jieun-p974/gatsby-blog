@@ -30,10 +30,10 @@ module.exports = {
       // =====       [Timestamp Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
-        date: '',
-        activity: '',
+        date: '2021.11 ~ ',
+        activity: '개발 일기 작성 및 취미 기록',
         links: {
-          github: '',
+          github: 'https://github.com/jieun-p974/gatsby-blog',
           post: '',
           googlePlay: '',
           appStore: '',
@@ -43,8 +43,8 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개발 일기 작성 및 취미 기록',
+        date: '',
+        activity: '',
         links: {
           post:'', //'/gatsby-starter-zoomkoding-introduction',
           github:'', //'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
@@ -57,9 +57,9 @@ module.exports = {
       // =====        [Project Sample and Structure]        =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
       {
-        title: '',
-        description: '',
-        techStack: ['', ''],
+        title: '개발 블로그',
+        description: '개츠비 사용해보기',
+        techStack: ['gatsby', 'react'],
         thumbnailUrl: '',
         links: {
           post: '',
